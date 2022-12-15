@@ -10,6 +10,9 @@ class Main {
             // Create an array of the specified size
             int[] numbers = new int[n];
 
+            // Define an array of integers
+            // int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+
             // Prompt the user to enter the elements of the array
             System.out.println("Enter the elements of the array : ");
             for (int i = 0; i < n; i++) {
